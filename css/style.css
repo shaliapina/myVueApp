@@ -16,6 +16,7 @@ i.fa {
     background-image: url(../img/background__main.jpg);
     background-repeat: repeat-x;
     animation: slide 90s linear infinite;
+    background-size: cover;
 }
 .app {
     height: 100vh;
@@ -246,16 +247,20 @@ i.fa-star {
 
 .btn__zerg {
     background-color: #762877;
+    background-size: cover;
 }
 .btn__primal {
     background-color: #56a725;
+    background-size: cover;
 }
 .btn__protoss {
     background-color: #fce356;
+    background-size: cover;
     color: #000
 }
 .btn__taldarim {
     background-color: #9d0101;
+    background-size: cover;
 }
 .btn__terran {
     background-color: #da8618;
@@ -263,7 +268,9 @@ i.fa-star {
 .btn__infested {
     background-color: #f5b673;
     background-color: #000;
+    background-size: cover;
 }
 .btn__hybrid {
     background-color: #fc7654;
+    background-size: cover;
 }
